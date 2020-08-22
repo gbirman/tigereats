@@ -1,0 +1,1 @@
+web: cd Server && gunicorn mongo_connect:app
