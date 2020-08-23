@@ -1,3 +1,3 @@
 [submodule "tigereatssrc"]
 	path = tigereatssrc
-	url = git@github.com:gbirman/tigereatssrc
+	url = "git@github.com:gbirman/tigereatssrc#master"
